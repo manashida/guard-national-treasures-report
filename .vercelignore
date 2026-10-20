@@ -1,0 +1,5 @@
+# Local visual QA artifacts; not part of the published site.
+_验收截图/
+
+# Source-side metadata only; the application reads data.js instead.
+ppt_images/image_manifest.json

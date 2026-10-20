@@ -1,0 +1,1055 @@
+[
+  {
+    "index": 1,
+    "filename": "image1.jpeg",
+    "original_filename": "image1.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image1.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 6096000,
+    "display_top_emu": 0,
+    "display_width_emu": 6096000,
+    "display_height_emu": 6858000,
+    "display_width_in": 6.6667,
+    "display_height_in": 7.5,
+    "display_ratio": 0.888889,
+    "pixel_width": 3072,
+    "pixel_height": 4096,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 1,
+        "shape_name": "Picture 2",
+        "display_left_emu": 6096000,
+        "display_top_emu": 0,
+        "display_width_emu": 6096000,
+        "display_height_emu": 6858000,
+        "display_width_in": 6.6667,
+        "display_height_in": 7.5,
+        "display_ratio": 0.888889
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      0.888889
+    ]
+  },
+  {
+    "index": 2,
+    "filename": "image2.jpeg",
+    "original_filename": "image2.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image2.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 5080000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 1706,
+    "pixel_height": 1279,
+    "pixel_ratio": 1.333855,
+    "occurrences": [
+      {
+        "slide_index": 4,
+        "shape_name": "Picture 6",
+        "display_left_emu": 5080000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 3,
+    "filename": "image3.jpeg",
+    "original_filename": "image3.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image3.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 7366000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 4,
+        "shape_name": "Picture 8",
+        "display_left_emu": 7366000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 4,
+    "filename": "image4.jpeg",
+    "original_filename": "image4.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image4.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 9652000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 3072,
+    "pixel_height": 4096,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 4,
+        "shape_name": "Picture 10",
+        "display_left_emu": 9652000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 5,
+    "filename": "image5.jpeg",
+    "original_filename": "image5.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image5.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 5080000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 3072,
+    "pixel_height": 4096,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 4,
+        "shape_name": "Picture 12",
+        "display_left_emu": 5080000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 6,
+    "filename": "image6.jpeg",
+    "original_filename": "image6.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image6.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 7366000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 4,
+        "shape_name": "Picture 14",
+        "display_left_emu": 7366000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 7,
+    "filename": "image7.jpeg",
+    "original_filename": "image7.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image7.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 9652000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 3072,
+    "pixel_height": 4096,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 4,
+        "shape_name": "Picture 16",
+        "display_left_emu": 9652000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 8,
+    "filename": "image8.jpeg",
+    "original_filename": "image8.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image8.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 4318000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2159000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.3611,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.307692,
+    "pixel_width": 4284,
+    "pixel_height": 5712,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 6,
+        "shape_name": "Picture 6",
+        "display_left_emu": 4318000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2159000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.3611,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.307692
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.307692
+    ]
+  },
+  {
+    "index": 9,
+    "filename": "image9.jpeg",
+    "original_filename": "image9.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image9.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 6731000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2159000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.3611,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.307692,
+    "pixel_width": 3213,
+    "pixel_height": 5712,
+    "pixel_ratio": 0.5625,
+    "occurrences": [
+      {
+        "slide_index": 6,
+        "shape_name": "Picture 8",
+        "display_left_emu": 6731000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2159000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.3611,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.307692
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.307692
+    ]
+  },
+  {
+    "index": 10,
+    "filename": "image10.jpeg",
+    "original_filename": "image10.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image10.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 9144000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2159000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.3611,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.307692,
+    "pixel_width": 3024,
+    "pixel_height": 4032,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 6,
+        "shape_name": "Picture 10",
+        "display_left_emu": 9144000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2159000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.3611,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.307692
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.307692
+    ]
+  },
+  {
+    "index": 11,
+    "filename": "image11.jpeg",
+    "original_filename": "image11.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image11.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 4318000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2159000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.3611,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.307692,
+    "pixel_width": 3024,
+    "pixel_height": 4032,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 6,
+        "shape_name": "Picture 12",
+        "display_left_emu": 4318000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2159000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.3611,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.307692
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.307692
+    ]
+  },
+  {
+    "index": 12,
+    "filename": "image12.jpeg",
+    "original_filename": "image12.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image12.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 6731000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2159000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.3611,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.307692,
+    "pixel_width": 3024,
+    "pixel_height": 4032,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 6,
+        "shape_name": "Picture 14",
+        "display_left_emu": 6731000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2159000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.3611,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.307692
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.307692
+    ]
+  },
+  {
+    "index": 13,
+    "filename": "image13.jpeg",
+    "original_filename": "image13.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image13.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 9144000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2159000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.3611,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.307692,
+    "pixel_width": 3024,
+    "pixel_height": 4032,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 6,
+        "shape_name": "Picture 15",
+        "display_left_emu": 9144000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2159000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.3611,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.307692
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.307692
+    ]
+  },
+  {
+    "index": 14,
+    "filename": "image14.jpeg",
+    "original_filename": "image14.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image14.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 1016000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2413000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.6389,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.461538,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 8,
+        "shape_name": "Picture 5",
+        "display_left_emu": 1016000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2413000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.6389,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.461538
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.461538
+    ]
+  },
+  {
+    "index": 15,
+    "filename": "image15.jpeg",
+    "original_filename": "image15.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image15.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 3683000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2413000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.6389,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.461538,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 8,
+        "shape_name": "Picture 7",
+        "display_left_emu": 3683000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2413000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.6389,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.461538
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.461538
+    ]
+  },
+  {
+    "index": 16,
+    "filename": "image16.jpeg",
+    "original_filename": "image16.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image16.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 6350000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2413000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.6389,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.461538,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 8,
+        "shape_name": "Picture 9",
+        "display_left_emu": 6350000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2413000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.6389,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.461538
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.461538
+    ]
+  },
+  {
+    "index": 17,
+    "filename": "image17.jpeg",
+    "original_filename": "image17.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image17.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 9017000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2413000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.6389,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.461538,
+    "pixel_width": 640,
+    "pixel_height": 854,
+    "pixel_ratio": 0.749415,
+    "occurrences": [
+      {
+        "slide_index": 8,
+        "shape_name": "Picture 11",
+        "display_left_emu": 9017000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2413000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.6389,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.461538
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.461538
+    ]
+  },
+  {
+    "index": 18,
+    "filename": "image18.jpeg",
+    "original_filename": "image18.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image18.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 1016000,
+    "display_top_emu": 4064000,
+    "display_width_emu": 2413000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.6389,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.461538,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 8,
+        "shape_name": "Picture 13",
+        "display_left_emu": 1016000,
+        "display_top_emu": 4064000,
+        "display_width_emu": 2413000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.6389,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.461538
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.461538
+    ]
+  },
+  {
+    "index": 19,
+    "filename": "image19.jpeg",
+    "original_filename": "image19.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image19.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 3683000,
+    "display_top_emu": 4064000,
+    "display_width_emu": 2413000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.6389,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.461538,
+    "pixel_width": 1706,
+    "pixel_height": 1279,
+    "pixel_ratio": 1.333855,
+    "occurrences": [
+      {
+        "slide_index": 8,
+        "shape_name": "Picture 15",
+        "display_left_emu": 3683000,
+        "display_top_emu": 4064000,
+        "display_width_emu": 2413000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.6389,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.461538
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.461538
+    ]
+  },
+  {
+    "index": 20,
+    "filename": "image20.jpeg",
+    "original_filename": "image20.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image20.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 6350000,
+    "display_top_emu": 4064000,
+    "display_width_emu": 2413000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.6389,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.461538,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 8,
+        "shape_name": "Picture 17",
+        "display_left_emu": 6350000,
+        "display_top_emu": 4064000,
+        "display_width_emu": 2413000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.6389,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.461538
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.461538
+    ]
+  },
+  {
+    "index": 21,
+    "filename": "image21.jpeg",
+    "original_filename": "image21.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image21.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 9017000,
+    "display_top_emu": 4064000,
+    "display_width_emu": 2413000,
+    "display_height_emu": 1651000,
+    "display_width_in": 2.6389,
+    "display_height_in": 1.8056,
+    "display_ratio": 1.461538,
+    "pixel_width": 1704,
+    "pixel_height": 1276,
+    "pixel_ratio": 1.335423,
+    "occurrences": [
+      {
+        "slide_index": 8,
+        "shape_name": "Picture 19",
+        "display_left_emu": 9017000,
+        "display_top_emu": 4064000,
+        "display_width_emu": 2413000,
+        "display_height_emu": 1651000,
+        "display_width_in": 2.6389,
+        "display_height_in": 1.8056,
+        "display_ratio": 1.461538
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.461538
+    ]
+  },
+  {
+    "index": 22,
+    "filename": "image22.jpeg",
+    "original_filename": "image22.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image22.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 1016000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 1706,
+    "pixel_height": 1279,
+    "pixel_ratio": 1.333855,
+    "occurrences": [
+      {
+        "slide_index": 9,
+        "shape_name": "Picture 5",
+        "display_left_emu": 1016000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 23,
+    "filename": "image23.jpeg",
+    "original_filename": "image23.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image23.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 3302000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 9,
+        "shape_name": "Picture 7",
+        "display_left_emu": 3302000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 24,
+    "filename": "image24.jpeg",
+    "original_filename": "image24.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image24.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 5588000,
+    "display_top_emu": 1905000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 9,
+        "shape_name": "Picture 9",
+        "display_left_emu": 5588000,
+        "display_top_emu": 1905000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 25,
+    "filename": "image25.jpeg",
+    "original_filename": "image25.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image25.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 1016000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 1706,
+    "pixel_height": 1279,
+    "pixel_ratio": 1.333855,
+    "occurrences": [
+      {
+        "slide_index": 9,
+        "shape_name": "Picture 11",
+        "display_left_emu": 1016000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 26,
+    "filename": "image26.jpeg",
+    "original_filename": "image26.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image26.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 3302000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 1279,
+    "pixel_height": 1706,
+    "pixel_ratio": 0.749707,
+    "occurrences": [
+      {
+        "slide_index": 9,
+        "shape_name": "Picture 13",
+        "display_left_emu": 3302000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  },
+  {
+    "index": 27,
+    "filename": "image27.jpeg",
+    "original_filename": "image27.jpeg",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pptx_picture",
+    "source_ext": ".jpg",
+    "source_target": "ppt/media/image27.jpeg",
+    "content_type": "image/jpeg",
+    "display_left_emu": 5588000,
+    "display_top_emu": 3937000,
+    "display_width_emu": 2032000,
+    "display_height_emu": 1524000,
+    "display_width_in": 2.2222,
+    "display_height_in": 1.6667,
+    "display_ratio": 1.333333,
+    "pixel_width": 3072,
+    "pixel_height": 4096,
+    "pixel_ratio": 0.75,
+    "occurrences": [
+      {
+        "slide_index": 9,
+        "shape_name": "Picture 15",
+        "display_left_emu": 5588000,
+        "display_top_emu": 3937000,
+        "display_width_emu": 2032000,
+        "display_height_emu": 1524000,
+        "display_width_in": 2.2222,
+        "display_height_in": 1.6667,
+        "display_ratio": 1.333333
+      }
+    ],
+    "usage_count": 1,
+    "display_ratio_variants": [
+      1.333333
+    ]
+  }
+]
